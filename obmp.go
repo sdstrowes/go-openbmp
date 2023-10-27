@@ -1,4 +1,4 @@
-package go-openbmp
+package obmp
 
 import (
 	"bytes"
